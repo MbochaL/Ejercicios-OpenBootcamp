@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Latin:wght@300&family=Kdam+Thmor+Pro&family=Lato&family=Oswald&family=Press+Start+2P&family=Roboto:wght@300;400&display=swap');
+
+* {
+ font-family: 'Anek Latin', sans-serif;
+ font-size: larger;
+ background-color: aquamarine;
+ text-decoration: underline;
+}
+
+
+#elemento-1 {
+    color: red;
+}
+
+ol li#elemento-1 {
+    font-size: 2rem;
+}
