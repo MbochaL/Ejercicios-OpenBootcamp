@@ -1,0 +1,6 @@
+#Entrego de esta manera que es la utilice del video y que escribi en consola (de otra forma no sabia como entregarlo) xd
+
+> const edad = prompt("hola, Cual es tu edad?")
+<- undefined
+> edad 
+<- '21
