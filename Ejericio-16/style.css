@@ -1,0 +1,29 @@
+.seccion {
+    background-color: darkslategrey;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.parrafo {
+    background-color: white;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.parrafo.dragging {
+    opacity: 0.3;
+}
+
+.imagenGhost {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: -100vw; 
+}
+
+.basura {
+    background-color: darkslategrey;
+    padding: 1rem;
+    margin: 1rem;
+}
+
